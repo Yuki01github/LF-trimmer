@@ -1,0 +1,17 @@
+*.csv
+*.png
+*.gif
+*.jpeg
+*.py[cod]
+*.$py.class
+*.ini
+*.ico
+*.bmp
+*.drawio
+__pycache__/
+module/history/
+tempCodeRunnerFile.pyw
+tempCodeRunnerFile.py
+test.py
+config.ini
+
